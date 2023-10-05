@@ -1,4 +1,13 @@
-### Hi there 👋
+<h4 align="center"><samp> Everybody wants to be a 😺, because a 🐈‍⬛'s the only cat who knows where it's at. Everybody's pickin' up on that feline beat 🎵, 'cause everything else is obsolete 🎩.</samp></h4>
+
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnByc3V2MXFybnZlYWo0NnR0OWNnZzZqaHg3aTRta3B3dGNzcW56byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tcOlZPq3yF5ijS9yng/giphy.gif">
+</p>
+
+<p align="center"><samp>
+aguante el mate ⬇️  
+  </samp>
+</p>
 
 <!--
 **SeZuu/SeZuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
