@@ -5,7 +5,7 @@
 </p>
 
 <p align="center"><samp>
-aguante el mate ⬇️  
+aguante el mate 🧉 
   </samp>
 </p>
 
